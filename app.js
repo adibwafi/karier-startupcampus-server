@@ -9,7 +9,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 const cloudinary = require("./config/cloudinary");
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.urlencoded({ extended: false }));
