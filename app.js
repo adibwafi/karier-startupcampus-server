@@ -27,7 +27,7 @@ app.use(cloudinary.config);
 var db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error:"));
 db.once("open", function () {
-  app.listen(PORT, () => {
+  app.listen(process.env.PORT || 3001, () => {
     console.log(`Successfully connect to MongoDB:`, PORT);
   });
 });
