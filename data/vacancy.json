@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Finance and Tax Specialist",
+    "description": "Make weekly payment in accordance with cash flow allowance Respond to vendor and internal staff inquiries Review, maintain and reconcile AP reports, spreadsheets, and files. Review and process all accounts receivable. This includes ensuring that sales placement is accurately invoiced, email invoices and send the hardcopies to the clients along with other documents Post payments by recording claim, bank and credit card transactions Create miscellaneous invoices as requested Budgeting and account reconciliations Coordinate monthly and annual tax income Assist with processes which ensure accurate & timely financial reporting",
+    "requirement": "Bachelor Degree in Accounting/Tax with 1-3 years experience Tax Brevet A & B Deep understanding of PPh, VAT etc Mastering tax application Familiar with tax compliance, monthly/annual tax reports, tax audit, tax return reporting, and correspondence with tax office Must maintain a high level of integrity and capable of working with all levels of the organisation. Neat, thorough and able to work with deadlines Accuracy with complex mathematical functions, specifically with Gsheet and strong Excel skills Must be energetic and eager to learn with a team mindset and startup culture",
+    "userId": 1,
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Senior UI/UX Designer",
+    "description": "End-to-end product design process from identifying, ideation, concepting, to creating high quality user-centered designs and or prototypes by understanding business requirements and user feedback. Creating user flows, wireframes, prototypes, and mockups. Translating requirements into style guides, design systems, design patterns and attractive user interfaces. Identifying and troubleshooting UX problems. Incorporating customer feedback, usage metrics, and usability findings, into design in order to enhance user experience while also balancing company values and goals.",
+    "requirement": "At least 2-4 years of relevant work experience within UI/UX Designing with a strong portfolio. Experienced and proficient with design tools (Figma, Sketch, Adobe Photoshop, Adobe Illustrator, etc.) Demonstrated experience designing usable mobile and/or web-based interfaces. Great communication skills; ability to clearly state ideas, designs, and suggestions. Critical thinking problem solver mindset, great attention to detail, and excellent time management Great knowledge in research and design fundamental",
+    "userId": 1,
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Strategic Partnership",
+    "description": "Analyzing potential new partners that match Startup Campus marketing targets. Active and initiative looking for potential collaboration with partners in various channels Building relationship with partners and potential partners Coordinating publications to each responsible partner regarding information on the Startup Campus program Organize events related to the Startup Campus Program and collaborate with partners Deliver a great experience to our partners when working with our organization - you will represent our brand and be our partners’ liaison internally Negotiate and finalize deals in accordance with the company’s contract guidelines and policies",
+    "requirement": "1-2 years experience as a partnership strategist or other related positions with a strong portfolio Ability to translate data into clear narratives, operational strategies, and recommendations Strong documentation, research, presentation, and logical and structural thinking skills Outstanding communication, interpersonal skills, and negotiation skills with fluency in both Bahasa & English Well organized and have a sense of ownership Result driven and target oriented. Strong Microsoft Office and GSuites skills",
+    "userId": 1,
+    "jobType": "Contract"
+  },
+  {
+    "title": "Senior Creative Writer",
+    "description": "Collaborate with cross-member team to create good story Conduct research on multi-disciplined fields, including but not limited tech and business Develop good story for company’s social media platform, website, and UI/UX products Ensure all works are fact-based and plagiarism-free",
+    "requirement": "At least 2 years experience as creative writer Have good understanding in tech and business field Have interest in education and edu-tech company Proficiency in English and Bahasa Indonesia Marketing, digital marketing, and social media savvy Highly creative and organized Ability to work independently and with a team Target driven",
+    "userId": 1,
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Artificial Intelligence Mentor",
+    "description": "Weekly mentoring min. once a week throughout the program, handling 25-30 students Understanding the learning journey Keeping up with all the materials and live session recordings Providing feedback and scoring assessment, as well as submitting before the due date Filling log reports in the platform Proactively coordinating challenges and progress with the Startup Campus team.",
+    "requirement": "Background or Experience in Computer Vision Project Familiarity with Python programming Deep interest in Artificial Intelligence Passionate about nurturing people Strong problem solving Interpersonal & Communication skills are value-added Attention to detail Experience with code collaboration using git, AI projects, and especially Computer Vision",
+    "userId": 1,
+    "jobType": "Full-time"
+  },
+  {
+    "title": "Creative Writer (Freelance)",
+    "description": "Collaborate with cross-member team to create good story Conduct research on multi-disciplined fields, including but not limited tech and business Develop good story for company’s social media platform, website, and UI/UX products Ensure all works are fact-based and plagiarism-free",
+    "requirement": "At least 1 year experience as creative writer (preferably from IT Company) Have good understanding in tech and business field Have interest in education and edu-tech company Highly creative and organized Ability to work independently and with a team Marketing, digital marketing & social media savvy Target driven",
+    "userId": 1,
+    "jobType": "Freelance"
+  }
+]
