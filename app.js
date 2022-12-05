@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
-mongoose.connect(process.env.DB_URI, {
+mongoose.connect("mongodb+srv://adibwafi:Aksesbebas123@sewamotor.38vyhzk.mongodb.net/StartupCampus?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
