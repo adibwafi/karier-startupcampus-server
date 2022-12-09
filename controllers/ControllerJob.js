@@ -55,9 +55,9 @@ class ControllerJob {
       if (!findJob) {
         throw { name: "DATA_NOT_FOUND" };
       }
-      await findJob.updateOne({ is_active: "false" });
+      await findJob.updateOne({ is_active: req.body.is_active });
       res.status(200).json({
-        message: `Job status set to closed.`,
+        message: `Job status set to ${!findJob.is_active? "Active" : "Closed"}.`,
       });
     } catch (err) {
       next(err);
